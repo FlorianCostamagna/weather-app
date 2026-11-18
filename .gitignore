@@ -1,0 +1,5 @@
+# Ignore build and output artifacts from compression strategies
+graphify-out/
+.codegraph/
+metrics.csv
+.DS_Store
